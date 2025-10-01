@@ -23,9 +23,11 @@
 
                 Mozzi documentation/API https://sensorium.github.io/Mozzi/doc/html/index.html
 
-   Tested with Arduino IDE 1.8.13
+Tested with Arduino IDE 1.8.13
                ESP32 board file 1.0.6
-               ArduinoJSON 6.19.4
+               ArduinoJSON by Benoit Blanchon 6.19.4
+               Mozzi 1.1.0
+
 
    Gadget Reboot
    https://www.youtube.com/@gadgetreboot
