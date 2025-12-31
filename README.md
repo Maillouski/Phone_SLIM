@@ -18,6 +18,9 @@ POTS Telephone Subscriber Line Interface Module
 
 # Parts
 * The transformer is a 600:600 ohm audio isolation type.  The part used in the prototypes is from Ali Express, such as the red 4 pin ones here with description words such as EL14 included: https://s.click.aliexpress.com/e/_Dmlkp3z <BR><BR>
+* PCBs (bare boards or almost-fully assembled) can be found at https://www.pcbway.com/project/shareproject/Phone_Line_Simulator_POTS_Land_Line_1d34078f.html
+* I have no idea what PCBWay charges for board parts/assembly, I just shared the project there as an open project.
+* PCBWay can't obtain the red 600:600 transformer so if someone has assembled boards made, they'll still have to obtain and solder that part themselves
 
 # Powering Up Two Nodes
 * Power up the Server board first and wait for the blue LED to light up on the ESP module's built in LED to indicate it has joined the WiFi router.<br>
