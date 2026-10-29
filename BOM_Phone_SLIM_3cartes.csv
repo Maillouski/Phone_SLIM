@@ -1,0 +1,41 @@
+Fournisseur,Ref carte,Part number,Designation,Quantite commandee,Quantite reellement requise,Surplus,Qte par carte,Prix etendu CAD,Lien / Notes
+DigiKey,C17,495-6853-ND,B32562J3105K000,3,3,0,1,4.83,"SUBSTITUT - ECW-F2105HA en rupture (MOQ 3600). Corps 7,0mm au lieu de 5,0"
+DigiKey,D7,1N4148FS-ND,1N4148,3,3,0,1,0.45,
+DigiKey,D9,1N5817DICT-ND,1N5817-T,3,3,0,1,1.62,
+DigiKey,D1,754-2153-ND,WP154A4SEJ3VBDZGC/CA,3,3,0,1,9.57,SUBSTITUT - EALP05RDMRGBA0 obsolete. ANODE COMMUNE (verifie)
+DigiKey,D4,P6KE82CALFCT-ND,P6KE82CA,3,3,0,1,3.39,
+DigiKey,D2 D3 D5 D6 D8,4878-1N4004CT-ND,1N4004,15,15,0,5,1.92,
+DigiKey,J5,35-PREC002SAAN-RC-ND,PREC002SAAN-RC,3,3,0,1,0.45,
+DigiKey,J8,35-PREC003SAAN-RC-ND,PREC003SAAN-RC,3,3,0,1,0.45,
+DigiKey,J10,CP-202A-ND,PJ-202A,3,3,0,1,3.30,
+DigiKey,J11,277-12547-ND,5442206,3,3,0,1,2.19,
+DigiKey,J6 J7,2057-MTJ-662X2-ND,MTJ-662X2,6,6,0,2,3.18,"SUBSTITUT - R-RJ11R06P-A800 (Ckmtw) absent. Motif verifie sur fiche: pas 1,02 / portee 5,10 / rangees 2,54 / pions 12,00 a 2,30 de la rangee 2-4-6 / Dpion 2,36 dans percage 2,50. Angle droit, languette vers le haut, boitier gris."
+DigiKey,K1,39-G5V-2DC5-ND,G5V-2 DC5,3,3,0,1,15.51,"Le PCB est trace pour ce relais (Relay_DPDT_Omron_G5V-2), pas pour le HK19F du BOM"
+DigiKey,Q2,2N3904TAFSCT-ND,2N3904TA,3,3,0,1,1.32,
+DigiKey,Q1,2N7000FS-ND,2N7000,3,3,0,1,2.85,
+DigiKey,C12 C16,478-11034-1-ND,SR215C102KARTR1,6,6,0,2,5.88,
+DigiKey,C7 C13,445-174286-1-ND,FA28X7R1H682KNU06,10,6,4,2,2.74,10 au lieu de 6 : le palier de 10 coute moins cher que 6
+DigiKey,C1 C2 C3 C4 C5 C6 C8 C10 C11 C14 C15 C18 C24 C25 C26,BC1101CT-ND,K104K15X7RF5TH5,50,45,5,15,9.00,50 au lieu de 45 : le palier de 50 coute moins cher que 45
+DigiKey,C9 C19 C20 C21 C22 C23,10-ECA-1CM100BCT-ND,ECA-1CM100B,18,18,0,6,3.78,"SUBSTITUT - ECA-1CM100I en rupture. Pas 2,0mm dans footprint 2,5mm : ecarter les pattes"
+DigiKey,R14 R21,13-CFR-25JR-52-100RCT-ND,CFR-25JR-52-100R,10,6,4,2,0.56,10 au lieu de 6 : le palier de 10 coute moins cher que 6
+DigiKey,R1 R3 R4,13-CFR-25JR-52-300RCT-ND,CFR-25JR-52-300R,10,9,1,3,0.56,10 au lieu de 9 : le palier de 10 coute moins cher que 9
+DigiKey,R27,13-CFR-25JR-52-1KCT-ND,CFR-25JR-52-1K,3,3,0,1,0.48,
+DigiKey,R16 R22,13-CFR-25JR-52-6K8CT-ND,CFR-25JR-52-6K8,10,6,4,2,0.56,10 au lieu de 6 : le palier de 10 coute moins cher que 6
+DigiKey,R15 R19 R25,13-CFR-25JR-52-7K5CT-ND,CFR-25JR-52-7K5,10,9,1,3,0.56,10 au lieu de 9 : le palier de 10 coute moins cher que 9
+DigiKey,R2 R5 R6 R7 R12 R13 R17 R23 R26,13-CFR-25JR-52-10KCT-ND,CFR-25JR-52-10K,27,27,0,9,1.29,
+DigiKey,R20,13-CFR-25JR-52-15KCT-ND,CFR-25JR-52-15K,3,3,0,1,0.48,
+DigiKey,R18 R24,13-CFR-25JR-52-18KCT-ND,CFR-25JR-52-18K,10,6,4,2,0.56,10 au lieu de 6 : le palier de 10 coute moins cher que 6
+DigiKey,R8 R10 R28,13-CFR-25JR-52-100KCT-ND,CFR-25JR-52-100K,10,9,1,3,0.56,10 au lieu de 9 : le palier de 10 coute moins cher que 9
+DigiKey,R9,13-CFR-25JR-52-300KCT-ND,CFR-25JR-52-300K,3,3,0,1,0.48,
+DigiKey,R11,13-CFR-25JR-52-1MCT-ND,CFR-25JR-52-1M,3,3,0,1,0.48,
+DigiKey,S1,450-1650-ND,1825910-6,3,3,0,1,0.60,
+DigiKey,U3,296-9213-5-ND,CD74HC4050E,3,3,0,1,4.08,
+DigiKey,U1,S7013-ND,PPTC151LFBN-RC,6,6,0,2,8.10,2 par carte pour le module ESP32
+DigiKey,U7,TC7660CPA-ND,TC7660CPA,3,3,0,1,5.25,"SUBSTITUT - ICL7660SIPAZ obsolete. DIP-8, meme brochage"
+DigiKey,U6,497-1491-5-ND,LD1117V33,3,3,0,1,5.94,SUBSTITUT - LD1117AV33 obsolete. 800mA au lieu de 1A
+DigiKey,U5,296-1395-5-ND,LM358P,3,3,0,1,1.56,
+DigiKey,Y1,535-9053-ND,ABL-3.579545MHZ-B2,3,3,0,1,1.50,
+DigiKey,Z1 Z2 Z3 Z4,BZX55B2V4-TAPGICT-ND,BZX55B2V4-TAP,12,12,0,4,5.82,
+AliExpress,U4,KS0835F (R-TONE RT0835F),Module SLIC 11 broches SIP,3,3,0,1,5.10,"https://www.aliexpress.com/item/1005004945164575.html | 1,70 $/piece, vendue a l'unite. Photos marquees KS0835F V1.4 / R-TONE = fabricant du BOM. 6+5 broches en 2 groupes = conforme a l'empreinte. 459 vendus, 5,0/5"
+AliExpress,T1,Transfo isolement 600:600 1:1 EI14,"4 broches, rectangle 10,52 x 7,58 mm requis",10,3,7,1,1.70,"https://www.aliexpress.com/item/1005011909554247.html | Lot de 10 pour 1,70 $. ATTENTION: aucun plan cote, et les photos melangent 4 produits (EI14 4 broches, un 5 broches, HT-6868 boitier metal, CMS 14x5mm). Entraxe NON VERIFIE. 35 vendus"
+AliExpress,U2,CM8870PI,"DIP-18, clone brochage-compatible du MT8870",10,3,7,1,14.48,"https://www.aliexpress.com/item/1005009401251296.html | Lot de 10 pour 14,48 $. DIP-18 = boitier JEDEC, conforme a l'empreinte. Annonce sans avis ni historique de ventes propre"
